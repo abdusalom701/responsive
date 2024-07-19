@@ -1,0 +1,148 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.alar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo button{
+    width: 256px;
+height: 36px;
+border: none;
+border-radius: 15px;
+background: #FC004A;
+margin-left: 100px;
+color: white;
+}
+section{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+body {
+      position: relative;
+      height: 100%;
+    }
+
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    main h1{
+        margin-top: 100px;
+    }
+    main{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      
+      margin: 40px;
+      margin: auto;
+      
+    }
+    .card{
+      margin-left: 100px;
+      background-color: white;
+      width: 240px;
+      height: 370px;
+      
+      
+      
+    }
+    .card{
+      border-radius: 20px;
+      box-shadow: 5px 5px 20px ;
+      margin: auto;
+      
+    }
+    .button{
+      margin-left: 170px;
+      margin-top: 20px;
+      border: 1px solid;
+    }
+    .card button{
+      background-color: red;
+      border-radius: 10px;
+    }
+    .h3 a{
+      color: red;
+    }
+    .card{
+      margin-left: 100px;
+      background-color: white;
+      width: 240px;
+      height: 370px;
+      
+      
+      
+    }
+    .cardt{
+      border-radius: 20px;
+      box-shadow: 5px 5px 20px ;
+      margin: auto;
+      
+    }
+    .button1{
+      margin-left: 170px;
+      margin-top: 20px;
+      border: 1px solid;
+    }
+    .card .button2{
+      background-color: red;
+      border-radius: 10px;
+    }
+    .h3a a{
+      color: red;
+    }
+    footer{
+      width: 100%;
+      height: 100px;
+      background-color: white;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+    }
+      
+
+      
+    
+    
+     
+
+
+    
+    
